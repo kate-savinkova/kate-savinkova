@@ -1,10 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ekaterina Savinkova
-===========================================================================================================================================
+Hi 👋 My name is Ekaterina Savinkova
+====================================
 
 Frontend developer
 ------------------
 
-My education: NUST MISIS, Master's Degree in 09.04.02 Information systems and technologies Additional courses: education at School 21 and courses from the Hexlet platform How to contact me: Send an email to katy4.savinkova2004@yandex.ru or write in Telegram to @ignotusc
+My education: NUST MISIS, Master's Degree in 09.04.02 Information systems and technologies
+Additional courses: education at School 21 and courses from the Hexlet platform
+How to contact me: Send an email to katy4.savinkova2004@yandex.ru or write in Telegram to @ignotusc
 
 * 🌍  I'm based in Moscow
 * 🖥️  See my portfolio at [GitHub](http://github.com/kate-savinkova)
@@ -29,8 +31,8 @@ My education: NUST MISIS, Master's Degree in 09.04.02 Information systems and te
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/kate-savinkova/frontend-project-46" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kate-savinkova&repo=frontend-project-46&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/kate-savinkova/frontend-project-44" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kate-savinkova&repo=frontend-project-44&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/kate-savinkova/frontend-project-46" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kate-savinkova&repo=frontend-project-46&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/kate-savinkova/frontend-project-44" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kate-savinkova&repo=frontend-project-44&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br />
 
-<br /><br /><br /><br /><br />
+<br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/kate-savinkova/game_of_life" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kate-savinkova&repo=game_of_life&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/kate-savinkova/pong" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kate-savinkova&repo=pong&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
